@@ -1,0 +1,12 @@
+{
+  "name": "Coding-With-Godson",
+  "displayName": "Coding-With-Godson",
+  "expo": {
+    "name": "Coding-With-Godson",
+    "slug": "Coding-With-Godson",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
